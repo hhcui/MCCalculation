@@ -16,4 +16,6 @@
     NSDecimalNumber* decimalNumber2 = self.mcCalculation.result;
     NSLog(@"decimalNumber2 =%@",decimalNumber2.stringValue);
 
+## More
+ [简书-链式编程](http://www.jianshu.com/p/51c8c03f084a)
 
